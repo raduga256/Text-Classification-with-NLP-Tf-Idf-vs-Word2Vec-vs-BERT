@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nPYEwh9cwLrSed_atsD1V-byOQQ-HUi3#scrollTo=byOH5US-sZaA)
 # Text-Classification-with-NLP-Tf-Idf-vs-Word2Vec-vs-BERT
 Preprocessing, Model Design, Evaluation, Explainability for Bag-of-Words, Word Embedding, Language models
 
